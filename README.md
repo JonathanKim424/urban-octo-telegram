@@ -11,7 +11,7 @@ To refactor a website that offers social solution services to meet accessibility
 ## Website
 https://jonathankim424.github.io/urban-octo-telegram/
 
-![Website](./assets/images/lead-generation.png?raw=tru "Website")
+![Website Screenshot](./assets/images/website-screenshot.jpg?raw=tru "Website Screenshot")
 
 ## Contribution
 Made by Jonathan Kim for Horiseon
